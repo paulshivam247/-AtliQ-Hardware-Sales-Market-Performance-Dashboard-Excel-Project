@@ -112,6 +112,11 @@ The dashboards support dynamic filtering by:
 
 ---
 
+## 📥 Download the Dashboards
+
+📂 [https://1drv.ms/u/c/bb358f3ab39ffd4d/EUuc34WIdYdAgHPfkhGfiW0BiIKnguwgynYQ7_vwu4Yy0A?e=MjfpH3]
+---
+
 ## 🎥 Demo Presentation
 
 ▶️ [Watch the Project Walkthrough on YouTube](https://youtu.be/o2xgioDC-WI)
